@@ -2,6 +2,8 @@
 
 Projeto feito para disciplina de Fundamentos de Desenvolvimento para Internet do CEFET-RJ no ano letivo de 2021.
 
+> **[Link para o site](https://rafaelabf.github.io/Central1B/)**
+
 ## 💻 Sobre o projeto
  
 O site expõe os jogos feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020 da turma BINFO do mesmo ano.
