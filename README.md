@@ -6,7 +6,7 @@ Projeto feito para disciplina de Fundamentos de Desenvolvimento para Internet do
 
 ## 💻 Sobre o projeto
  
-O site expõe os jogos feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020 da turma BINFO do mesmo ano.
+Central de jogos desenvolvidos para a matéria de Introdução à Programação, do curso de informática do CEFET-RJ, pela turma 1BINFO do ano letivo de 2020. Os seguintes jogos foram desenvolvidos com a linguagem de programação Scratch, e com o objetivo de melhorar a proficiência dos alunos em lógica de programação.
  
 > **Brother of Joel** foi o jogo criado pelos mesmo desenvolvedores deste projeto - **[Link para o repositório do jogo](https://github.com/RafaelaBF/Brother-of-Joel)**
 
